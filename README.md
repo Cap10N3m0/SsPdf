@@ -1,5 +1,6 @@
 # SsPdf
 ScreenShot to Pdf
+Compatible only with Ubuntu's Default ScreenShot mode
 
 Change the strings to specified Location 
 
